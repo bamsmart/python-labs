@@ -1,11 +1,11 @@
 
 nama = "Fitra Achmad Ramadhan"
 umur = 17
-agama = "Islam"
+agama = "Islamx"
 
 
 print("Nama saya awal adalah : ", nama)
 
-nama_baru = nama.replace("Ramadhan","Romdhoni")
+nama_baru = nama.replace("Ramadhan","Romdhonix")
 
-print("Nama saya setelah diubah adalah : ", nama_baru)
+print("Nama saya setelah diubah adalahx : ", nama_baru)
